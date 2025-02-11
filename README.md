@@ -6,4 +6,4 @@ A página contém uma seção inicial com uma breve apresentação, links para m
 
 ---
 
-Desenvolvido por **Marcos**.
+Meu projeto se encontra <a href="https://agregador-de-link.vercel.app/" target="_blank">aqui</a>.
